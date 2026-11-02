@@ -1,0 +1,21 @@
+{
+  "invalidLogin": {
+    "email": "qaveronika.user@qa.studio"
+  },
+
+  "invalidEmail": {
+    "email": "qaveronika.ru"
+  },
+
+  "invalidCredentials": {
+    "password": "incorrect_password"
+  },
+
+  "mixedCaseEmail": {
+    "email": "GerMan@Dolnikov.ru"
+  },
+
+  "passwordRecovery": {
+    "email": "qa.recovery@example.com"
+  }
+}
